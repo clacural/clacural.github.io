@@ -5,3 +5,11 @@ main {
 body {
     background-color: black;
 }
+
+.CentralizarAFarinha {
+    text-align: center;
+}
+
+.OpaoDeQueijo {
+    text-align: right;
+}
